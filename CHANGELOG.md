@@ -246,3 +246,9 @@
 * [Fixed] - Share button is not working on product page.
 
 * [Fixed] - Price details are not correct and showing without a currency symbol on shopping cart page.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

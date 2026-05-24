@@ -83,3 +83,9 @@ static const Color accentColor = Color(***********);
     * Open ios project in Xcode and go to signing and capabilities expand associated domains and from here replace - **applinks:```***********```**
 
   &nbsp;
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
